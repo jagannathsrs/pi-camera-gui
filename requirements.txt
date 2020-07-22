@@ -1,1 +1,1 @@
-guizero=1.1.0
+guizero==1.1.0
